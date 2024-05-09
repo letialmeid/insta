@@ -1,0 +1,49 @@
+.sugestoes{
+    width: 40vh;
+    height: 40vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: top;
+    align-items: center;
+    gap: 10px;
+
+}
+
+.Sugestao{
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    width: 320px;
+    height: 55px;
+    gap: 5px;
+}
+
+.imagem{
+    width: 45px;
+    height: 40px;
+    border-radius:50px ;
+}
+
+.nome-sugestao{
+    font-size: 15px;
+    gap: 10px;
+  
+}
+
+.final-pagina{
+    color: darkgray;
+    line-height: 17px;
+    font-size: 12px;
+    padding-left: 3px;
+   
+}
+
+.texto{
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    padding-top: 30px;
+    padding-left: 10px;
+    color: rgb(150, 149, 149);
+}
+

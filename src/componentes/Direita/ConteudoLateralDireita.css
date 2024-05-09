@@ -1,0 +1,7 @@
+.conteudoLateralDireito{
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
+div .conteudoLateralDireito{
+    border-left: rgb(77, 76, 76) 0.2px solid;
+}

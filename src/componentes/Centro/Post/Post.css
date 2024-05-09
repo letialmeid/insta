@@ -1,0 +1,35 @@
+.Post {
+    width: 500px;
+}
+
+.Post .card-body img {
+   width: 100%;
+}
+
+.comentario{
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    gap: 5px;
+}
+
+.foto{
+    width: 35px;
+    height: 35px;
+    border-radius:50px ;
+}
+
+.Post .card-header{
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    gap: 10px;
+    
+}
+
+.icones{
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    gap: 5px;
+}
